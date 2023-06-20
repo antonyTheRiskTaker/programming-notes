@@ -68,7 +68,10 @@ Step 45: change `.flavor` class `width` value to `75%`, `.price` class `width`
 Step 46: add a second `<section>` for displaying desserts offered by the cafe
 Step 47: add a `<h2>` in the new section and give it the text "Desserts"
 Step 48: add a `<article>` with `item` class under the heading
-Step 49:
+Step 49: add two `<p>` sitting next to each other inside the `<article>`
+Step 50: add `dessert` as the value of the first `<p>`'s class, `price` as the
+         value of the second `<p>`'s class
+Step 51:          
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
