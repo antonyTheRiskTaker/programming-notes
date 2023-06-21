@@ -71,10 +71,16 @@ Step 48: add a `<article>` with `item` class under the heading
 Step 49: add two `<p>` sitting next to each other inside the `<article>`
 Step 50: add `dessert` as the value of the first `<p>`'s class, `price` as the
          value of the second `<p>`'s class
-Step 51:          
+Step 51: now make `.flavor` and `.dessert` share the same CSS rule by using
+         a comma
+Step 52: add three more dessert `<article>` as it is placed above
+Step 53: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
 `margin-right`, `background-image`, `text-align`, `display`
 3. `display: inline-block;` makes block elements behave like inline elements.
+4. Multiple selectors can share the same CSS rule in a comma-separated selector
+   list.
+5. 
