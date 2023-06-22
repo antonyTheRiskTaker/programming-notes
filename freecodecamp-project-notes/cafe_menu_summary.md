@@ -79,8 +79,8 @@ Step 54: introduce `padding-top` and `padding-bottom` CSS properties
 Step 55: introduce `padding` as the short-hand CSS property for `padding-top`,
          `padding-bottom`, `padding-left` and `padding-right`
 Step 56: introduce `max-width` CSS property as a way to prevent an element
-         from growing too large
-Step 57:         
+         from growing too large as the screen size expands
+Step 57:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
