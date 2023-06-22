@@ -80,13 +80,19 @@ Step 55: introduce `padding` as the short-hand CSS property for `padding-top`,
          `padding-bottom`, `padding-left` and `padding-right`
 Step 56: introduce `max-width` CSS property as a way to prevent an element
          from growing too large as the screen size expands
-Step 57:
+Step 57: introduce `font-family` CSS property
+Step 58: set all the `font-family` of `<h1>` and `<h2>` to `Impact`
+Step 59: introduce *fallback* value for `font-family` and its purpose
+Step 60: create an `.established` selector and give it the property-value pair
+         of `font-style: italic;`
+Step 61:         
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
+`font-family`,
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
