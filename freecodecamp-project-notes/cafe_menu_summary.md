@@ -76,13 +76,17 @@ Step 51: now make `.flavor` and `.dessert` share the same CSS rule by using
 Step 52: add three more dessert `<article>` as it is placed above
 Step 53: introduce `padding-left` and `padding-right` CSS properties
 Step 54: introduce `padding-top` and `padding-bottom` CSS properties
-Step 55: 
+Step 55: introduce `padding` as the short-hand CSS property for `padding-top`,
+         `padding-bottom`, `padding-left` and `padding-right`
+Step 56: introduce `max-width` CSS property as a way to prevent an element
+         from growing too large
+Step 57:         
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
-`padding-right`, `padding-top`, `padding-bottom`
+`padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
