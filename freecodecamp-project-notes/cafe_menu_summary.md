@@ -74,12 +74,15 @@ Step 50: add `dessert` as the value of the first `<p>`'s class, `price` as the
 Step 51: now make `.flavor` and `.dessert` share the same CSS rule by using
          a comma
 Step 52: add three more dessert `<article>` as it is placed above
-Step 53: 
+Step 53: introduce `padding-left` and `padding-right` CSS properties
+Step 54: introduce `padding-top` and `padding-bottom` CSS properties
+Step 55: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
-`margin-right`, `background-image`, `text-align`, `display`
+`margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
+`padding-right`, `padding-top`, `padding-bottom`
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
