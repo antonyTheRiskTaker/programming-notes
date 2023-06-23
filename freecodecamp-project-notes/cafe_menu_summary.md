@@ -87,14 +87,16 @@ Step 60: create an `.established` selector and give it the property-value pair
          of `font-style: italic;`
 Step 61: apply the `established` class to the `<p>` holding the "Est. 2020"
          text
-Step 62:
+Step 62: introduce `font-size` CSS property
+Step 63: add `<footer>` for additional information
+Step 64:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
-`font-family`, `font-style`,
+`font-family`, `font-style`, `font-size`,
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
