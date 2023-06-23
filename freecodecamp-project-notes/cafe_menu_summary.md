@@ -94,14 +94,19 @@ Step 65: add a fake address below the link
 Step 66: introduce `<hr>` element
 Step 67: introduce `height` CSS property
 Step 68: give the `background-color` CSS property of `<hr>` a `brown` value
-Step 69:
+Step 69: introduce `border-color` CSS property
+Step 70: introduce `border-width` CSS property and explain how to work out the
+         height or width of an element, accounting for the value of
+         `border-width`
+Step 71: 
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
-`font-family`, `font-style`, `font-size`, `height`,
+`font-family`, `font-style`, `font-size`, `height`, `border-color`,
+`border-width`,
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
