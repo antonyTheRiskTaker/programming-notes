@@ -91,14 +91,17 @@ Step 62: introduce `font-size` CSS property
 Step 63: add `<footer>` for additional information
 Step 64: add a link directing to the freeCodeCamp website inside the `<footer>`
 Step 65: add a fake address below the link
-Step 66:
+Step 66: introduce `<hr>` element
+Step 67: introduce `height` CSS property
+Step 68: give the `background-color` CSS property of `<hr>` a `brown` value
+Step 69:
 
 Summary of lesson learned:
-1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
+1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
 2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
-`font-family`, `font-style`, `font-size`,
+`font-family`, `font-style`, `font-size`, `height`,
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
