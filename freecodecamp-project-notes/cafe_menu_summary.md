@@ -89,7 +89,9 @@ Step 61: apply the `established` class to the `<p>` holding the "Est. 2020"
          text
 Step 62: introduce `font-size` CSS property
 Step 63: add `<footer>` for additional information
-Step 64:
+Step 64: add a link directing to the freeCodeCamp website inside the `<footer>`
+Step 65: add a fake address below the link
+Step 66:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`
