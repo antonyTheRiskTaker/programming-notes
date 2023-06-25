@@ -98,7 +98,10 @@ Step 69: introduce `border-color` CSS property
 Step 70: introduce `border-width` CSS property and explain how to work out the
          height or width of an element, accounting for the value of
          `border-width`
-Step 71: 
+Step 71: add another `<hr>` between `<main>` and `<footer>`
+Step 72: add 20px of space on the inside of `<body>` by using the `padding`
+         CSS property
+Step 73:         
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
