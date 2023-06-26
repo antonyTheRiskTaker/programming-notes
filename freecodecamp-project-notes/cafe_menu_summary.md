@@ -101,7 +101,9 @@ Step 70: introduce `border-width` CSS property and explain how to work out the
 Step 71: add another `<hr>` between `<main>` and `<footer>`
 Step 72: add 20px of space on the inside of `<body>` by using the `padding`
          CSS property
-Step 73:         
+Step 73: target all `<p>` nested in elements with `item` class and set their
+         top and bottom margin to be 5px
+Step 74:         
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
