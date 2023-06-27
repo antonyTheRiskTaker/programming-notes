@@ -105,7 +105,10 @@ Step 73: introduce `margin-top` and `margin-bottom` CSS properties
 Step 74: set `font-size` of the items and prices in the `.item p` style
          selector to 18px
 Step 75: create a new class called `bottom-line` with `margin-top` set to 25px
-Step 76:
+Step 76: apply the `bottom-line` class to the `<hr>` between `<main>` and
+         `<footer>`
+Step 77: add comment to keep the CSS organised, e.g. /* FOOTER */
+Step 78:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
