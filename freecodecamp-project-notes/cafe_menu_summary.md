@@ -108,7 +108,9 @@ Step 75: create a new class called `bottom-line` with `margin-top` set to 25px
 Step 76: apply the `bottom-line` class to the `<hr>` between `<main>` and
          `<footer>`
 Step 77: add comment to keep the CSS organised, e.g. /* FOOTER */
-Step 78:
+Step 78: set all texts' `font-size` inside the `<footer>` to 14px
+Step 79: introduce `color` CSS property
+Step 80:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
@@ -116,7 +118,7 @@ Summary of lesson learned:
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
 `font-family`, `font-style`, `font-size`, `height`, `border-color`,
-`border-width`, `margin-top`, `margin-bottom`,
+`border-width`, `margin-top`, `margin-bottom`, `color`,
 3. `display: inline-block;` makes block elements behave like inline elements.
 4. Multiple selectors can share the same CSS rule in a comma-separated selector
    list.
