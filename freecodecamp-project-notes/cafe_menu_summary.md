@@ -102,7 +102,10 @@ Step 71: add another `<hr>` between `<main>` and `<footer>`
 Step 72: add 20px of space on the inside of `<body>` by using the `padding`
          CSS property
 Step 73: introduce `margin-top` and `margin-bottom` CSS properties
-Step 74:
+Step 74: set `font-size` of the items and prices in the `.item p` style
+         selector to 18px
+Step 75: create a new class called `bottom-line` with `margin-top` set to 25px
+Step 76:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
