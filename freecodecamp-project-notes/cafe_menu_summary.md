@@ -112,7 +112,10 @@ Step 78: set all texts' `font-size` inside the `<footer>` to 14px
 Step 79: introduce `color` CSS property
 Step 80: introduce CSS *pseudo-selector* (i.e. `a:visited`)
 Step 81: introduce `a:hover` CSS pseudo-selector
-Step 82:
+Step 82: introduce `a:active` CSS pseudo-selector
+Step 83: set `<a>` text color to 'black' if visited and to 'brown' if clicked
+Step 84: set `<h1>`'s `margin-top` to '0'
+Step 85:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
@@ -121,7 +124,7 @@ Summary of lesson learned:
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
 `font-family`, `font-style`, `font-size`, `height`, `border-color`,
 `border-width`, `margin-top`, `margin-bottom`, `color`,
-3. CSS pseudo-selectors: `a:visited`, `a:hover`,
+3. CSS pseudo-selectors: `a:visited`, `a:hover`, `a:active`,
 4. `display: inline-block;` makes block elements behave like inline elements.
 5. Multiple selectors can share the same CSS rule in a comma-separated selector
    list. 
