@@ -115,7 +115,9 @@ Step 81: introduce `a:hover` CSS pseudo-selector
 Step 82: introduce `a:active` CSS pseudo-selector
 Step 83: set `<a>` text color to 'black' if visited and to 'brown' if clicked
 Step 84: set `<h1>`'s `margin-top` to '0'
-Step 85:
+Step 85: set `<h1>`'s `margin-bottom` to '15px'
+Step 86: create a new class `address` with `margin-bottom` set to '5px'
+Step 87:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
