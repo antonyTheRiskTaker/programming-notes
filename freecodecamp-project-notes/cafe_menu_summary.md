@@ -117,7 +117,9 @@ Step 83: set `<a>` text color to 'black' if visited and to 'brown' if clicked
 Step 84: set `<h1>`'s `margin-top` to '0'
 Step 85: set `<h1>`'s `margin-bottom` to '15px'
 Step 86: create a new class `address` with `margin-bottom` set to '5px'
-Step 87:
+Step 87: apply the `address` class to the `<p>` holding the address
+Step 88: add an `<img>` under the coffee `<h2>`
+Step 89:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
