@@ -119,7 +119,9 @@ Step 85: set `<h1>`'s `margin-bottom` to '15px'
 Step 86: create a new class `address` with `margin-bottom` set to '5px'
 Step 87: apply the `address` class to the `<p>` holding the address
 Step 88: add an `<img>` under the coffee `<h2>`
-Step 89:
+Step 89: turn an `<img>` into a block element and centre it horizontally
+Step 90: add an `<img>` under the dessert `<h2>`
+Step 91:
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
@@ -129,6 +131,8 @@ Summary of lesson learned:
 `font-family`, `font-style`, `font-size`, `height`, `border-color`,
 `border-width`, `margin-top`, `margin-bottom`, `color`,
 3. CSS pseudo-selectors: `a:visited`, `a:hover`, `a:active`,
-4. `display: inline-block;` makes block elements behave like inline elements.
-5. Multiple selectors can share the same CSS rule in a comma-separated selector
-   list. 
+4. Step 25 explains one way to centre a div horizontally, hint: `margin-left`
+   and `margin-right`.
+5. `display: inline-block;` makes block elements behave like inline elements.
+6. Multiple selectors can share the same CSS rule in a comma-separated selector
+   list.
