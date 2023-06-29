@@ -121,7 +121,8 @@ Step 87: apply the `address` class to the `<p>` holding the address
 Step 88: add an `<img>` under the coffee `<h2>`
 Step 89: turn an `<img>` into a block element and centre it horizontally
 Step 90: add an `<img>` under the dessert `<h2>`
-Step 91:
+Step 91: set a negative value to `<img>`'s `margin-top` to draw it closer to the
+         product headings
 
 Summary of lesson learned:
 1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>`
@@ -129,8 +130,8 @@ Summary of lesson learned:
 `margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
 `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
 `font-family`, `font-style`, `font-size`, `height`, `border-color`,
-`border-width`, `margin-top`, `margin-bottom`, `color`,
-3. CSS pseudo-selectors: `a:visited`, `a:hover`, `a:active`,
+`border-width`, `margin-top`, `margin-bottom`, `color`
+3. CSS pseudo-selectors: `a:visited`, `a:hover`, `a:active`
 4. Step 25 explains one way to centre a div horizontally, hint: `margin-left`
    and `margin-right`.
 5. `display: inline-block;` makes block elements behave like inline elements.
