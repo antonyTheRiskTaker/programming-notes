@@ -8,7 +8,10 @@ Step 5: add `<meta>` within `<head>` with `name` and `content`
 Step 6: add `<h1>` within `<body>` with the name of the project
 Step 7: link a CSS stylesheet to the HTML page
 Step 8: style `<h1>`'s `text-align` property to 'center'
-Step 9:
+Step 9: add a `<div>` with its class set to `container` under `<h1>`
+Step 10: within the container `<div>`, add another `<div>` and set its class as
+         `marker`
+Step 11:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
