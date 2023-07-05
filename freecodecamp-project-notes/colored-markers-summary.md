@@ -11,7 +11,9 @@ Step 8: style `<h1>`'s `text-align` property to 'center'
 Step 9: add a `<div>` with its class set to `container` under `<h1>`
 Step 10: within the container `<div>`, add another `<div>` and set its class as
          `marker`
-Step 11:         
+Step 11: add `background-color: red;` to the `.marker` selector
+Step 12: set `.marker`'s `height` and `width` to '25px' and '200px' respectively
+Step 13:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
