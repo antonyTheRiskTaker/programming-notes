@@ -13,7 +13,11 @@ Step 10: within the container `<div>`, add another `<div>` and set its class as
          `marker`
 Step 11: add `background-color: red;` to the `.marker` selector
 Step 12: set `.marker`'s `height` and `width` to '25px' and '200px' respectively
-Step 13:
+Step 13: introduce `margin` as the short-hand for `margin-top`, `margin-bottom`,
+         `margin-left` and `margin-right`
+Step 14: add two more `<div>` with its class set to `container`
+Step 15: in the `.container` CSS rule, set `margin` to '10px auto'
+Step 16: 
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
