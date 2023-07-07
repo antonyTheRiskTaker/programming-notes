@@ -17,8 +17,15 @@ Step 13: introduce `margin` as the short-hand for `margin-top`, `margin-bottom`,
          `margin-left` and `margin-right`
 Step 14: add two more `<div>` with its class set to `container`
 Step 15: in the `.container` CSS rule, set `margin` to '10px auto'
-Step 16: 
+Step 16: show how to make a HTML element take multiple classes
+Step 17: remove the `background-color` property and its value from the `.marker`
+         CSS rule
+Step 18: create a new CSS rule that targets the class `one` and set its
+         `background-color` property to 'red'
+Step 19:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
    from all human languages.
+2. A HTML element can take multiple classes, however the styles of the first
+   class in the list can be overridden by later classes.
