@@ -22,7 +22,10 @@ Step 17: remove the `background-color` property and its value from the `.marker`
          CSS rule
 Step 18: create a new CSS rule that targets the class `one` and set its
          `background-color` property to 'red'
-Step 19:         
+Step 19: add classes `two` and `three` to the respective `<div>`s
+Step 20: create two CSS rules `.two` and `.three` and set their
+         `background-color` to 'green' and 'blue' respectively
+Step 21:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
