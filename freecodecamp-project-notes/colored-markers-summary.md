@@ -26,7 +26,10 @@ Step 19: add classes `two` and `three` to the respective `<div>`s
 Step 20: create two CSS rules `.two` and `.three` and set their
          `background-color` to 'green' and 'blue' respectively
 Step 21: introduce two colour models and the CSS `rgb` function
-Step 22:
+Step 22: explain what a function is and how rgb colour works
+Step 23: use the `rgb` function to create green and blue colours for the `.two`
+         and `.three` CSS rules
+Step 24:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
