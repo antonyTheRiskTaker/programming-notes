@@ -33,7 +33,11 @@ Step 24: in the `.two` CSS rule, set the green value in the `rgb()` to '127'
          to lower its intensity
 Step 25: in the `.container` CSS rule, use the `padding` property to add '10px'
          of top and bottom padding, and set the left and right padding to '0'
-Step 26:       
+Step 26: set the green value back to '255' in the `.two` CSS
+         rule
+Step 27: in the `.container` rule, set the red, green and blue values to the
+         max of '255'
+Step 28:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
