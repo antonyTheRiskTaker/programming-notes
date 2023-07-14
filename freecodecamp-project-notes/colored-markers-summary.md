@@ -36,7 +36,10 @@ Step 25: in the `.container` CSS rule, use the `padding` property to add '10px'
 Step 26: introduce primary colours in the RGB colour model
 Step 27: in the `.container` rule, set the red, green and blue values to the
          max of '255'
-Step 28:         
+Step 28: introduce secondary colours in the RGB colour model
+Step 29: mix pure and pure blue to create the cyan colour using `rgb()` in the
+         `.two` CSS rule
+Step 30:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
