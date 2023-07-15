@@ -39,7 +39,10 @@ Step 27: in the `.container` rule, set the red, green and blue values to the
 Step 28: introduce secondary colours in the RGB colour model
 Step 29: mix pure green and pure blue to create the cyan colour using `rgb()` in 
          the `.two` CSS rule
-Step 30:
+Step 30: mix pure red and pure blue to create the magenta colour using `rgb()`
+         in the `.three` CSS rule
+Step 31: introduce tertiary colours in the RGB colour model
+Step 32:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
