@@ -42,7 +42,11 @@ Step 29: mix pure green and pure blue to create the cyan colour using `rgb()` in
 Step 30: mix pure red and pure blue to create the magenta colour using `rgb()`
          in the `.three` CSS rule
 Step 31: introduce tertiary colours in the RGB colour model
-Step 32:         
+Step 32: mix green and cyan to create spring green using `rgb()` in the `.two`
+         CSS rule
+Step 33: mix magenta and blue to create violet using `rgb()` in the `.three` CSS
+         rule
+Step 34:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
