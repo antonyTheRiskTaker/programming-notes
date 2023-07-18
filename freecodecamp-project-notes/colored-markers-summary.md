@@ -46,7 +46,11 @@ Step 32: mix green and cyan to create spring green using `rgb()` in the `.two`
          CSS rule
 Step 33: mix magenta and blue to create violet using `rgb()` in the `.three` CSS
          rule
-Step 34:         
+Step 34: create chartreuse green, azure and rose colours in the `.one`, `.two`
+         and `.three` CSS rules respectively
+Step 35: set the `background-color` of `.one`, `.two` and `.three` CSS rules
+         to pure black using `rgb()`
+Step 36:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
