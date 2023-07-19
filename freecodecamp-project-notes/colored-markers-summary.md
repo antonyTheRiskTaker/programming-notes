@@ -50,7 +50,14 @@ Step 34: create chartreuse green, azure and rose colours in the `.one`, `.two`
          and `.three` CSS rules respectively
 Step 35: set the `background-color` of `.one`, `.two` and `.three` CSS rules
          to pure black using `rgb()`
-Step 36:         
+Step 36: introduce the concepts of hues (similar colours) and complementary
+         colours in a colour wheel
+Step 37: introduce the practice of choosing one colour as dominant colour, and
+         its complementary colour as an accent to bring attention to certain
+         content on the page
+Step 38: set the `background-color` to black and red in the `.one` and `.two`
+         CSS rules respectively
+Step 39:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
