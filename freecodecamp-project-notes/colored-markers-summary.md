@@ -57,7 +57,8 @@ Step 37: introduce the practice of choosing one colour as dominant colour, and
          content on the page
 Step 38: set the `background-color` to black and red in the `.one` and `.two`
          CSS rules respectively
-Step 39:         
+Step 39: set the `background-color` to black in the `.two` CSS rule
+Step 40:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
