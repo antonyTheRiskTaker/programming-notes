@@ -61,7 +61,11 @@ Step 39: set the `background-color` to black in the `.two` CSS rule
 Step 40: remove the `background-color` property and value in the `h1` CSS rule
 Step 41: in the first marker `<div>`, change the class `one` to `red`
 Step 42: update the `.one` CSS rule to target the `red` class
-Step 43:
+Step 43: update `rgb()` in the `.red` CSS rule so that the red value is at the
+         max
+Step 44: change the class `two` and `three` to `green` and `blue` in their
+         respective colour marker `<div>`
+Step 45: 
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
