@@ -65,7 +65,11 @@ Step 43: update `rgb()` in the `.red` CSS rule so that the red value is at the
          max
 Step 44: change the class `two` and `three` to `green` and `blue` in their
          respective colour marker `<div>`
-Step 45: 
+Step 45: update the CSS selectors `.two` and `.three` so that they target the
+         new `green` and `blue` classes respectively
+Step 46: introduce hexadecimal values as a way to apply colour to HTML elements
+         with CSS
+Step 47:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
