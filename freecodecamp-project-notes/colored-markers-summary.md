@@ -69,7 +69,9 @@ Step 45: update the CSS selectors `.two` and `.three` so that they target the
          new `green` and `blue` classes respectively
 Step 46: introduce hexadecimal values as a way to apply colour to HTML elements
          with CSS
-Step 47:         
+Step 47: set the intensity of green by setting the green value of the hex
+         colour to '7f'
+Step 48:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
