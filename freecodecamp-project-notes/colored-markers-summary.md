@@ -75,7 +75,10 @@ Step 48: introduce the HSL colour model
 Step 49: introduce gradient (colour transition) and the `linear-gradient`
          CSS function
 Step 50: explain the syntax of `linear-gradient()`
-Step 51:
+Step 51: in the `linear-gradient()`, use the `rgb()` to set the first colour
+         argument to pure red
+Step 52: set the second colour argument to pure green, using the `rgb()`
+Step 53:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
