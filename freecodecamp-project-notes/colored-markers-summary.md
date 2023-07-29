@@ -78,7 +78,9 @@ Step 50: explain the syntax of `linear-gradient()`
 Step 51: in the `linear-gradient()`, use the `rgb()` to set the first colour
          argument to pure red
 Step 52: set the second colour argument to pure green, using the `rgb()`
-Step 53:
+Step 53: set the third colour argument to pure blue
+Step 54: introduce colour-stops in `linear-gradient()`
+Step 55:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
