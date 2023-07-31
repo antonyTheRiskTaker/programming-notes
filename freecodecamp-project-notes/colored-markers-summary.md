@@ -83,7 +83,11 @@ Step 54: introduce colour-stops in `linear-gradient()`
 Step 55: set the `gradientDirection` argument to '180deg' for the
          `linear-gradient()`
 Step 56: set the colour stop for red to '0%', green to '50%', and blue to '100%'
-Step 57:
+Step 57: update the first colour argument in the `linear-gradient()`:
+         red -> 122, green -> 74, and blue -> 14
+Step 58: modify the second colour argument: red -> 245, green -> 62, and blue ->
+         113
+Step 59:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
