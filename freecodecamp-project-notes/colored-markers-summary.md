@@ -87,7 +87,11 @@ Step 57: update the first colour argument in the `linear-gradient()`:
          red -> 122, green -> 74, and blue -> 14
 Step 58: modify the second colour argument: red -> 245, green -> 62, and blue ->
          113
-Step 59:         
+Step 59: modify the third colour argument: red -> 162, green -> 27, and blue ->
+         27
+Step 60: in the `.green` CSS rule, change the `background-color` property to
+         `background`
+Step 61:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
