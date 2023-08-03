@@ -96,7 +96,9 @@ Step 61: set the `background` property to `linear-gradient()` and set the
          is '#55680D'
 Step 62: set the second colour argument to '#71f53e'
 Step 63: set the third colour argument to '#116c31'
-Step 64:
+Step 64: `linear-gradient()` places colours evenly along the gradient line by
+         default
+Step 65:         
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
