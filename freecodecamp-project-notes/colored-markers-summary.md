@@ -100,7 +100,13 @@ Step 64: `linear-gradient()` places colours evenly along the gradient line by
          default
 Step 65: `linear-gradient()` ranges colours from top to bottom (along a 180
          degree line) by default
-Step 66:         
+Step 66: in the `.blue` CSS rule, change the `background-color` property to
+         `background`
+Step 67: use `linear-gradient()` and pass in `hsl()` with values of '186',
+         '76%' and '16%' for hue, saturation and lightness respectively
+Step 68: pass in `hsl(223, 90%, 60%)` as the second colour argument
+Step 69: pass in `hsl(240, 56%, 42%)` as the third colour argument
+Step 70:
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
