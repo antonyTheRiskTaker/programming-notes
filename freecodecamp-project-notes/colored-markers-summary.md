@@ -106,7 +106,11 @@ Step 67: use `linear-gradient()` and pass in `hsl()` with values of '186',
          '76%' and '16%' for hue, saturation and lightness respectively
 Step 68: pass in `hsl(223, 90%, 60%)` as the second colour argument
 Step 69: pass in `hsl(240, 56%, 42%)` as the third colour argument
-Step 70:
+Step 70: build a marker sleeve for the red marker by creating a new `<div>` with
+         a class of `sleeve` and nesting it inside the red marker `<div>`
+Step 71: create a new CSS rule targeting the `sleeve` class and set its
+         `width` to '110px' and `height` to '25px'
+Step 72:                  
 
 Summary of lesson learned:
 1. "utf-8" is a universal character set that includes almost every character
