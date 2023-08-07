@@ -110,10 +110,14 @@ Step 70: build a marker sleeve for the red marker by creating a new `<div>` with
          a class of `sleeve` and nesting it inside the red marker `<div>`
 Step 71: create a new CSS rule targeting the `sleeve` class and set its
          `width` to '110px' and `height` to '25px'
-Step 72:                  
+Step 72: set the `.sleeve`'s `background-color` to 'white'
+Step 73: introduce the `opacity` CSS property
+Step 74: 
 
 Summary of lesson learned:
-1. "utf-8" is a universal character set that includes almost every character
+1. New CSS properties learned: `opacity`
+2. New CSS functions learned: `rgb()`, `hsl()`, `linear-gradient()`
+3. "utf-8" is a universal character set that includes almost every character
    from all human languages.
-2. A HTML element can take multiple classes, however the styles of the first
+4. A HTML element can take multiple classes, however the styles of the first
    class in the list can be overridden by later classes.
