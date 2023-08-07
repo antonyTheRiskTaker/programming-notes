@@ -125,13 +125,14 @@ Step 91: set a negative value to `<img>`'s `margin-top` to draw it closer to the
          product headings
 
 Summary of lesson learned:
-1. HTML elements: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>` (5 in total)
-2. CSS properties: `text-align`, `background-color`, `width`, `margin-left`,
-`margin-right`, `background-image`, `text-align`, `display`, `padding-left`,
-`padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`,
-`font-family`, `font-style`, `font-size`, `height`, `border-color`,
-`border-width`, `margin-top`, `margin-bottom`, `color` (23 in total)
-3. CSS pseudo-selectors: `a:visited`, `a:hover`, `a:active` (3 in total)
+1. New HTML elements learned: `<style>`, `<link>`, `<div>`, `<article>`, `<hr>` 
+   (5 in total)
+2. New CSS properties learned: `text-align`, `background-color`, `width`, 
+   `margin-left`, `margin-right`, `background-image`, `text-align`, `display`, `padding-left`, `padding-right`, `padding-top`, `padding-bottom`, `padding`, `max-width`, `font-family`, `font-style`, `font-size`, `height`, 
+   `border-color`, `border-width`, `margin-top`, `margin-bottom`, `color` 
+   (23 in total)
+3. New CSS pseudo-selectors learned: `a:visited`, `a:hover`, `a:active` 
+   (3 in total)
 4. Step 25 explains one way to centre a div horizontally, hint: `margin-left`
    and `margin-right`.
 5. `display: inline-block;` makes block elements behave like inline elements.
