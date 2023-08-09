@@ -112,11 +112,14 @@ Step 71: create a new CSS rule targeting the `sleeve` class and set its
          `width` to '110px' and `height` to '25px'
 Step 72: set the `.sleeve`'s `background-color` to 'white'
 Step 73: introduce the `opacity` CSS property
-Step 74: 
+Step 74: introduce another way to set the opacity of an element with 
+         `alpha channel`
+Step 75: introduce the CSS `rgba` function
+Step 76:
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`
-2. New CSS functions learned: `rgb()`, `hsl()`, `linear-gradient()`
+2. New CSS functions learned: `rgb()`, `hsl()`, `linear-gradient()`, `rgba()`
 3. "utf-8" is a universal character set that includes almost every character
    from all human languages.
 4. A HTML element can take multiple classes, however the styles of the first
