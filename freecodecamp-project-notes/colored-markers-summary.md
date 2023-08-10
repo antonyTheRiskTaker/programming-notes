@@ -115,7 +115,11 @@ Step 73: introduce the `opacity` CSS property
 Step 74: introduce another way to set the opacity of an element with 
          `alpha channel`
 Step 75: introduce the CSS `rgba` function
-Step 76:
+Step 76: add another `<div>` with a `cap` class before the sleeve `<div>`
+         in order to push the latter to the right side of the colour bar
+Step 77: create a CSS rule targetting the `cap` class and set its `width` and
+         `height` to '60px' and '25px' respectively
+Step 78:         
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`
