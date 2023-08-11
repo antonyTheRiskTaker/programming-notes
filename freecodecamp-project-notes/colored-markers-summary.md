@@ -119,7 +119,9 @@ Step 76: add another `<div>` with a `cap` class before the sleeve `<div>`
          in order to push the latter to the right side of the colour bar
 Step 77: create a CSS rule targetting the `cap` class and set its `width` and
          `height` to '60px' and '25px' respectively
-Step 78:         
+Step 78: create a new CSS rule targetting both `cap` and `sleeve`, and set
+         their `display` to 'inline-block'
+Step 79:                  
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`
