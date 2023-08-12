@@ -13,7 +13,7 @@ Step 10: within the container `<div>`, add another `<div>` and set its class as
          `marker`
 Step 11: add `background-color: red;` to the `.marker` selector
 Step 12: set `.marker`'s `height` and `width` to '25px' and '200px' respectively
-Step 13: introduce `margin` as the short-hand for `margin-top`, `margin-bottom`,
+Step 13: introduce `margin` as the shorthand for `margin-top`, `margin-bottom`,
          `margin-left` and `margin-right`
 Step 14: add two more `<div>` with its class set to `container`
 Step 15: in the `.container` CSS rule, set `margin` to '10px auto'
@@ -125,7 +125,9 @@ Step 79: properties of an HTML element's border can be controlled separately,
          e.g. `border-left-width` (a new CSS property introduced)
 Step 80: introduce `border-left-style` CSS property
 Step 81: introduce `border-left-color` CSS property
-Step 82:
+Step 82: introduce `border-left` shorthand CSS property
+Step 83: switch `border-left`'s style value to 'double'
+Step 84:
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`, `border-left-width`,
@@ -135,3 +137,5 @@ Summary of lesson learned:
    from all human languages.
 4. A HTML element can take multiple classes, however the styles of the first
    class in the list can be overridden by later classes.
+5. `margin` CSS property syntax: `margin: [top] [right] [bottom] [left];`
+6. `border-left` CSS property syntax: `border-left: [width] [style] [colour];`
