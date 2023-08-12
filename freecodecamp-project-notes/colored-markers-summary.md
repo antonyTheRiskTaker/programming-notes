@@ -121,10 +121,15 @@ Step 77: create a CSS rule targetting the `cap` class and set its `width` and
          `height` to '60px' and '25px' respectively
 Step 78: create a new CSS rule targetting both `cap` and `sleeve`, and set
          their `display` to 'inline-block'
-Step 79:                  
+Step 79: properties of an HTML element's border can be controlled separately,
+         e.g. `border-left-width` (a new CSS property introduced)
+Step 80: introduce `border-left-style` CSS property
+Step 81: introduce `border-left-color` CSS property
+Step 82:
 
 Summary of lesson learned:
-1. New CSS properties learned: `opacity`
+1. New CSS properties learned: `opacity`, `border-left-width`,
+   `border-left-style`, `border-left-color`
 2. New CSS functions learned: `rgb()`, `hsl()`, `linear-gradient()`, `rgba()`
 3. "utf-8" is a universal character set that includes almost every character
    from all human languages.
