@@ -127,7 +127,10 @@ Step 80: introduce `border-left-style` CSS property
 Step 81: introduce `border-left-color` CSS property
 Step 82: introduce `border-left` shorthand CSS property
 Step 83: switch `border-left`'s style value to 'double'
-Step 84:
+Step 84: set `border-left`'s colour value to pure black with 75% opacity using
+         `rgba()`
+Step 85: add caps and sleeves to other markers
+Step 86:
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`, `border-left-width`,
