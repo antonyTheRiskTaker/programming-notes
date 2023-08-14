@@ -130,7 +130,10 @@ Step 83: switch `border-left`'s style value to 'double'
 Step 84: set `border-left`'s colour value to pure black with 75% opacity using
          `rgba()`
 Step 85: add caps and sleeves to other markers
-Step 86:
+Step 86: introduce `box-shadow` CSS property
+Step 87: position the shadow of the red marker on the opposite side by updating
+         the offsetX and offsetY values of `.red`'s `box-shadow` CSS property
+Step 88:         
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`, `border-left-width`,
@@ -142,3 +145,4 @@ Summary of lesson learned:
    class in the list can be overridden by later classes.
 5. `margin` CSS property syntax: `margin: [top] [right] [bottom] [left];`
 6. `border-left` CSS property syntax: `border-left: [width] [style] [colour];`
+7. `box-shadow` CSS property syntax: `box-shadow: [offsetX] [offsetY] [colour]`
