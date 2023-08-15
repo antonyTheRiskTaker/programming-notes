@@ -133,7 +133,9 @@ Step 85: add caps and sleeves to other markers
 Step 86: introduce `box-shadow` CSS property
 Step 87: position the shadow of the red marker on the opposite side by updating
          the offsetX and offsetY values of `.red`'s `box-shadow` CSS property
-Step 88:         
+Step 88: in the `.green` CSS rule, add the `box-shadow` property with
+         appropriate values for the parameters
+Step 89:         
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`, `border-left-width`,
@@ -145,4 +147,5 @@ Summary of lesson learned:
    class in the list can be overridden by later classes.
 5. `margin` CSS property syntax: `margin: [top] [right] [bottom] [left];`
 6. `border-left` CSS property syntax: `border-left: [width] [style] [colour];`
-7. `box-shadow` CSS property syntax: `box-shadow: [offsetX] [offsetY] [colour]`
+7. `box-shadow` CSS property syntax:
+   `box-shadow: [offsetX] [offsetY] [blurRadius (optional)] [colour]`
