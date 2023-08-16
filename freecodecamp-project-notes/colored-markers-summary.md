@@ -139,8 +139,11 @@ Step 90: update the `box-shadow` property in the `.red` CSS rule with instructed
          values
 Step 91: update the colour value of the red marker's `border-shadow` property
 Step 92: update the values of the green and blue markers like that of the red
-         marker, except for colour values
-Step 93:                  
+         marker, and the colour values remain unchanged
+Step 93: update the colour value of the green marker with the hex colour code
+         '#3b7e20cc'
+Step 94: update the colour value of the blue marker with `hsla()` and input
+         appropriate values as instructed by the tutorial
 
 Summary of lesson learned:
 1. New CSS properties learned: `opacity`, `border-left-width`,
