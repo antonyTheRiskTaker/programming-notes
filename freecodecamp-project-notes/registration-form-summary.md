@@ -12,9 +12,17 @@ Step 7: below `<h1>` heading, add a `<p>` with text to encourage users to
 Step 8: introduce `vh` unit for CSS styling and the concept of viewport
 Step 9: set the `margin` of `<body>` to '0' to remove the horizontal scroll bar
 Step 10: set the `background-color` and `color` on `<body>` to specified values
-Step 11:
+Step 11: add a `<form>` after the `<p>`
+Step 12: introduce the `method` attribute of `<form>`
+Step 13: add three `<fieldset>` inside the `<form>`
+Step 14: add four `<label>` inside the first `<fieldset>`
+Step 15: add text to the four `<label>` to prompt users to input their first
+         names, last names, email, and to create passwords
+Step 16:         
 
 Summary of lesson learned:
 1. CSS units: `vh`
 2. It's a good practice to set the `margin` of `<body>` to 0 because some
    browsers add some margin by default.
+3. Data from `<form>` can be sent via either a GET request as URL parameters
+   or a POST request in the request body (see Step 12).
