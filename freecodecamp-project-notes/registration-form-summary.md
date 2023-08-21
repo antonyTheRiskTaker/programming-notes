@@ -26,7 +26,9 @@ Step 19: give each `<input>` an appropriate value to its `type` attribute
 Step 20: add a submit button under the last `<fieldset>` (i.e. a `<input>`
          with its `type` attribute set to "submit" and its `value` attribute
          set to "Submit")
-Step 21:         
+Step 21: add `required` attribute to each `<input>` in the first `<fieldset>`
+         to make inputting these data compulsory for submission
+Step 22:
 
 Summary of lesson learned:
 1. CSS units: `vh`, `rem`
