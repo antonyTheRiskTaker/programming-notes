@@ -28,7 +28,16 @@ Step 20: add a submit button under the last `<fieldset>` (i.e. a `<input>`
          set to "Submit")
 Step 21: add `required` attribute to each `<input>` in the first `<fieldset>`
          to make inputting these data compulsory for submission
-Step 22:
+Step 22: add custom validation to the password `<input>` by setting its
+         `minlength` attribute to "8" to prevent passwords with less than eight
+         characters being submitted
+Step 23: introduce the topic of regex in the context of setting the pattern of
+         the password submitted.
+Step 24: add three `<label>` in the next `<fieldset>` (for inputting a different
+         set of info)
+Step 25: add an `<input>` with its `type` attribute set to "radio" within the
+         first two `<label>`
+Step 26:
 
 Summary of lesson learned:
 1. CSS units: `vh`, `rem`
