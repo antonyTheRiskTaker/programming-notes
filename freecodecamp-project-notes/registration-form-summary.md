@@ -37,7 +37,10 @@ Step 24: add three `<label>` in the next `<fieldset>` (for inputting a different
          set of info)
 Step 25: add an `<input>` with its `type` attribute set to "radio" within the
          first two `<label>`
-Step 26:
+Step 26: add an `<input>` with its `type` attribute set to "checkbox" within the
+         third `<label>`
+Step 27: add appropriate text after each `<input>` nested inside the `<label>`
+Step 28:         
 
 Summary of lesson learned:
 1. CSS units: `vh`, `rem`
