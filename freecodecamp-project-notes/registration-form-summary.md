@@ -20,8 +20,8 @@ Step 15: add text to the four `<label>` to prompt users to input their first
          names, last names, email, and to create passwords
 Step 16: introduce the unit of `rem`
 Step 17: nest an `<input>` within each `<label>`
-Step 18: link a `<label>` and its nested `<input>` using the `for` attribute,
-         following accessibility best practices
+Step 18: link a `<label>` and its nested `<input>` using the `for` and `id`
+         attributes, following accessibility best practices
 Step 19: give each `<input>` an appropriate value to its `type` attribute
 Step 20: add a submit button under the last `<fieldset>` (i.e. a `<input>`
          with its `type` attribute set to "submit" and its `value` attribute
@@ -40,7 +40,13 @@ Step 25: add an `<input>` with its `type` attribute set to "radio" within the
 Step 26: add an `<input>` with its `type` attribute set to "checkbox" within the
          third `<label>`
 Step 27: add appropriate text after each `<input>` nested inside the `<label>`
-Step 28:         
+Step 28: set `name` attribute of both radio buttons to "account-type"
+Step 29: follow the same instructions in Step 18, but for the elements of the
+         second `<fieldset>`
+Step 30: wrap a `<a>` pair around the "terms and conditions" text in the third
+         `<label>` in the second `<fieldset>` and link it to freeCodeCamp's
+         terms and conditions page
+Step 31:
 
 Summary of lesson learned:
 1. CSS units: `vh`, `rem`
@@ -48,3 +54,5 @@ Summary of lesson learned:
    browsers add some margin by default.
 3. Data from `<form>` can be sent via either a GET request as URL parameters
    or a POST request in the request body (see Step 12).
+4. To allow one button of a group of radio buttons to be selected at a time, set
+   set the `name` attribute of all of them to the same value.
