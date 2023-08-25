@@ -46,13 +46,25 @@ Step 29: follow the same instructions in Step 18, but for the elements of the
 Step 30: wrap a `<a>` pair around the "terms and conditions" text in the third
          `<label>` in the second `<fieldset>` and link it to freeCodeCamp's
          terms and conditions page
-Step 31:
+Step 31: add an `<input>` (`type` attribute set to "file") nested in a `<label>`
+         inside the third `<fieldset>`
+Step 32: add an `<input>` that accepts the user's age (with `type`, `min` and
+         `max` attributes set to appropriate values) wrapped in a `<label>`
+         inside the same `<fieldset>`
+Step 33: introduce `<select>` and `<option>` HTML elements
+Step 34: wrap the dropdown menu HTML elements inside a `<label>` with
+         appropriate text
+Step 35: add appropriate text to each of the `<option>` pairs
+Step 36:
 
 Summary of lesson learned:
-1. CSS units: `vh`, `rem`
-2. It's a good practice to set the `margin` of `<body>` to 0 because some
+1. HTML elements: `<select>`, `<option>`
+2. CSS units: `vh`, `rem`
+3. It's a good practice to set the `margin` of `<body>` to 0 because some
    browsers add some margin by default.
-3. Data from `<form>` can be sent via either a GET request as URL parameters
+4. Data from `<form>` can be sent via either a GET request as URL parameters
    or a POST request in the request body (see Step 12).
-4. To allow one button of a group of radio buttons to be selected at a time, set
+5. To allow one button of a group of radio buttons to be selected at a time, set
    set the `name` attribute of all of them to the same value.
+6. A dropdown menu can be created with a `<select>` and several `<option>` by
+   wrapping the `<option>` pairs inside the `<select>` 
