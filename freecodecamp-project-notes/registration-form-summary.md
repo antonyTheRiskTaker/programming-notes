@@ -55,10 +55,18 @@ Step 33: introduce `<select>` and `<option>` HTML elements
 Step 34: wrap the dropdown menu HTML elements inside a `<label>` with
          appropriate text
 Step 35: add appropriate text to each of the `<option>` pairs
-Step 36:
+Step 36: set the `value` attribute to a value for each of the `<option>` pairs
+Step 37: introduce the `<textarea>` HTML element
+Step 38: link the applicable form elements and their `<label>` in the third
+         `<fieldset>` together
+Step 39: set the size of the `<textarea>` by tweaking its `cols` and `rows`
+         attributes
+Step 40: set the `placeholder` attribute to some text that prompts the user to
+         write something about themselves
+Step 41:
 
 Summary of lesson learned:
-1. HTML elements: `<select>`, `<option>`
+1. HTML elements: `<select>`, `<option>`, `<textarea>`
 2. CSS units: `vh`, `rem`
 3. It's a good practice to set the `margin` of `<body>` to 0 because some
    browsers add some margin by default.
