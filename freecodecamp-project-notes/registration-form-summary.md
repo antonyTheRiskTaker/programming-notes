@@ -63,7 +63,13 @@ Step 39: set the size of the `<textarea>` by tweaking its `cols` and `rows`
          attributes
 Step 40: set the `placeholder` attribute to some text that prompts the user to
          write something about themselves
-Step 41:
+Step 41: provide each submittable elements (i.e. `<input>`) with a `name`
+         attribute
+Step 42: in the stylesheet, change the `font-family` and `font-size` of the
+         `body` rule as instructed
+Step 43: target all `<h1>` and `<p>`, set their `margin` to an appropriate
+         value, and align their text in the centre
+Step 44:         
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
@@ -75,4 +81,6 @@ Summary of lesson learned:
 5. To allow one button of a group of radio buttons to be selected at a time, set
    set the `name` attribute of all of them to the same value.
 6. A dropdown menu can be created with a `<select>` and several `<option>` by
-   wrapping the `<option>` pairs inside the `<select>` 
+   wrapping the `<option>` pairs inside the `<select>`
+7. It is good practice to provide every submittable elements with a `name`
+   attribute, which is used to identify the element in the form submission.
