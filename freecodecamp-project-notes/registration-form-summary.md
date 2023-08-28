@@ -69,7 +69,12 @@ Step 42: in the stylesheet, change the `font-family` and `font-size` of the
          `body` rule as instructed
 Step 43: target all `<h1>` and `<p>`, set their `margin` to an appropriate
          value, and align their text in the centre
-Step 44:         
+Step 44: centre the `<form>`, set their `min-width` and `max-width`, and set
+         their `width` to "60vw"
+Step 45: target all `<fieldset>`, remove their `border`, add `padding` to the
+         top and bottom of each `<fieldset>`, and remove their left and right
+         `padding`
+Step 46:         
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
