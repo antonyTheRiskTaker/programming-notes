@@ -78,7 +78,12 @@ Step 46: set the `border-bottom` of all `<fieldset>` to specified values to give
          some separation between them
 Step 47: target the last `<fieldset>` using pseudo-class to remove its bottom
          border
-Step 48:
+Step 48: make all `<input>`, `<textarea>` and `<select>` take the full width of
+         their parent elements, and set their top margin to "10px" and others
+         to 0
+Step 49: add a class `inline` to all `<input>` inside the second `<fieldset>`
+Step 50: target all `.inline` elements and set their `width` to "unset"
+Step 51:
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
@@ -93,3 +98,4 @@ Summary of lesson learned:
    wrapping the `<option>` pairs inside the `<select>`
 7. It is good practice to provide every submittable elements with a `name`
    attribute, which is used to identify the element in the form submission.
+8. The value "unset" can remove earlier CSS declarations.
