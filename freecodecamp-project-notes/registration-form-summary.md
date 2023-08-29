@@ -74,7 +74,11 @@ Step 44: centre the `<form>`, set their `min-width` and `max-width`, and set
 Step 45: target all `<fieldset>`, remove their `border`, add `padding` to the
          top and bottom of each `<fieldset>`, and remove their left and right
          `padding`
-Step 46:         
+Step 46: set the `border-bottom` of all `<fieldset>` to specified values to give
+         some separation between them
+Step 47: target the last `<fieldset>` using pseudo-class to remove its bottom
+         border
+Step 48:
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
