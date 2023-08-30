@@ -83,19 +83,31 @@ Step 48: make all `<input>`, `<textarea>` and `<select>` take the full width of
          to 0
 Step 49: add a class `inline` to all `<input>` inside the second `<fieldset>`
 Step 50: target all `.inline` elements and set their `width` to "unset"
-Step 51:
+Step 51: set the `margin` of each `inline` elements to "0.5em", while other
+         `margin` are set to zero
+Step 52: introduce the `vertical-align` CSS property
+Step 53: set the `background-color` and `border` of all `<input>` and
+         `<textarea>` to appropriate values so that they blend in with the
+         background theme
+Step 54: set the `color` and `min-height` of all `<input>` and `<textarea>` to
+         "#ffffff" and "2em" to make the inputted characters more visible
+Step 55: move the `min-height: 2em;` declaration to the CSS rule that targets
+         `<input>`, `<textarea>` and `<select>`, so that all submittable
+         elements have the same `min-height`
+Step 56:
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
 2. CSS units: `vh`, `rem`
-3. It's a good practice to set the `margin` of `<body>` to 0 because some
+3. CSS properties: `vertical-align`
+4. It's a good practice to set the `margin` of `<body>` to 0 because some
    browsers add some margin by default.
-4. Data from `<form>` can be sent via either a GET request as URL parameters
+5. Data from `<form>` can be sent via either a GET request as URL parameters
    or a POST request in the request body (see Step 12).
-5. To allow one button of a group of radio buttons to be selected at a time, set
+6. To allow one button of a group of radio buttons to be selected at a time, set
    set the `name` attribute of all of them to the same value.
-6. A dropdown menu can be created with a `<select>` and several `<option>` by
+7. A dropdown menu can be created with a `<select>` and several `<option>` by
    wrapping the `<option>` pairs inside the `<select>`
-7. It is good practice to provide every submittable elements with a `name`
+8. It is good practice to provide every submittable elements with a `name`
    attribute, which is used to identify the element in the form submission.
-8. The value "unset" can remove earlier CSS declarations.
+9. The value "unset" can remove earlier CSS declarations.
