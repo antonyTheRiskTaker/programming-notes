@@ -94,7 +94,8 @@ Step 54: set the `color` and `min-height` of all `<input>` and `<textarea>` to
 Step 55: move the `min-height: 2em;` declaration to the CSS rule that targets
          `<input>`, `<textarea>` and `<select>`, so that all submittable
          elements have the same `min-height`
-Step 56:
+Step 56: introduce attribute selector
+Step 57:
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
