@@ -95,7 +95,14 @@ Step 55: move the `min-height: 2em;` declaration to the CSS rule that targets
          `<input>`, `<textarea>` and `<select>`, so that all submittable
          elements have the same `min-height`
 Step 56: introduce attribute selector
-Step 57:
+Step 57: centre the submit button (see Step 44)
+Step 58: set the `height` and `font-size` of the submit button to appropriate
+         values
+Step 59: set the `background-color` and `border-color` of the submit button
+         to appropriate values
+Step 60: give the submit button some `margin` top and bottom and an appropriate
+         `min-width`
+Step 61:
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
