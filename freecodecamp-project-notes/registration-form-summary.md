@@ -102,7 +102,9 @@ Step 59: set the `background-color` and `border-color` of the submit button
          to appropriate values
 Step 60: give the submit button some `margin` top and bottom and an appropriate
          `min-width`
-Step 61:
+Step 61: target the file `<input>` and give it a `padding` of "1px 2px"
+Step 62: give the `<form>` a `padding-bottom` of "2em"
+Step 63: give the terms and conditions `<a>` a `color` of "#dfdfe2"
 
 Summary of lesson learned:
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
