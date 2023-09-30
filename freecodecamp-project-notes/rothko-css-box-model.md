@@ -11,4 +11,5 @@ Step 8: write a CSS rule that targets the `.canvas` class selector and set its
         width to an appropriate value
 Step 9: add `height: 600px;` to the CSS rule
 Step 10: add `background-color: #4d0f00;` to the CSS rule
-Step 11:
+Step 11: wrap a `<div>` with a `frame` class over the canvas `<div>`
+Step 12:
