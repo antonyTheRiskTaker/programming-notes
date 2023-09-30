@@ -9,4 +9,6 @@ Step 6: add a `<div>` that serves as a canvas
 Step 7: link a stylesheet to the HTML page
 Step 8: write a CSS rule that targets the `.canvas` class selector and set its
         width to an appropriate value
-Step 9:
+Step 9: add `height: 600px;` to the CSS rule
+Step 10: add `background-color: #4d0f00;` to the CSS rule
+Step 11:
