@@ -6,4 +6,7 @@ Step 3: explain the content part of the CSS box model
 Step 4: explain the padding and border parts of the CSS box model
 Step 5: explain the margin part of the CSS box model
 Step 6: add a `<div>` that serves as a canvas
-Step 7:
+Step 7: link a stylesheet to the HTML page
+Step 8: write a CSS rule that targets the `.canvas` class selector and set its
+        width to an appropriate value
+Step 9:
