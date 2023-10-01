@@ -6,9 +6,10 @@ How to set up git on your machine?
    - i. Run `git config --global user.name "Your name here"`
    - ii. Run `git config --global user.email "your_email@example.com"`
 4. Set up ssh on your computer.
-   -  i. Look to see if you have files ~/.ssh/id_rsa and ~/.ssh/id_rsa.pub.
-         If not, create such public/private keys: `ssh-keygen -t rsa -C "your_email@example.com"`
-   - ii. Copy your public key into your clipboard.
+   - i. Look to see if you have files ~/.ssh/id_rsa and ~/.ssh/id_rsa.pub.
+        If not, create such public/private keys: `ssh-keygen -t rsa -C "your_email@example.com"`
+   - ii. Run `cat ~/.ssh/id_rsa.pub`.
+   - iii. Copy your public key into your clipboard.
 5. Paste your ssh public key into your github account settings.
    - i. Go to your github Account Settings.
    - ii. Click “SSH Keys” on the left.
