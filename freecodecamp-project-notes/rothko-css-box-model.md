@@ -15,4 +15,7 @@ Step 11: wrap a `<div>` with a `frame` class over the canvas `<div>`
 Step 12: write a CSS rule that targets `.frame` and define its `border` property
 Step 13: in the same rule, set the `width` property to '500px', same as that of
          `.canvas`
-Step 14:
+Step 14: set `.frame`'s `padding` to '50px' to add some space between the frame
+         and the canvas
+Step 15: use the `margin` property to centre the frame (and the nested canvas)
+Step 16:
