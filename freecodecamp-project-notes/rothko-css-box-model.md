@@ -20,4 +20,7 @@ Step 14: set `.frame`'s `padding` to '50px' to add some space between the frame
 Step 15: use the `margin` property to centre the frame (and the nested canvas)
 Step 16: nest a new `<div>` (with class `one`) inside the canvas `<div>`
 Step 17: write a new CSS rule that targets `.one` and its `width` property
-Step 18:
+Step 18: set the `height` property for `.one`
+Step 19: set the `background-color` property for `.one`
+Step 20: use the `margin` shorthand to centre the `.one` element
+Step 21:
