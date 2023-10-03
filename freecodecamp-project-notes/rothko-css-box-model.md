@@ -18,5 +18,5 @@ Step 13: in the same rule, set the `width` property to '500px', same as that of
 Step 14: set `.frame`'s `padding` to '50px' to add some space between the frame
          and the canvas
 Step 15: use the `margin` property to centre the frame (and the nested canvas)
-Step 16: nest a `<div>` inside the canvas `<div>`
-Step 17:
+Step 16: nest a new `<div>` (with class `one`) inside the canvas `<div>`
+Step 17: 
