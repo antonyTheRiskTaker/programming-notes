@@ -24,4 +24,6 @@ Step 17: write a new CSS rule that targets `.one` and its `width` property
 Step 18: set the `height` property for `.one`
 Step 19: set the `background-color` property for `.one`
 Step 20: use the `margin` shorthand to centre the `.one` element horizontally
-Step 21:
+Step 21: add `padding` of 1px to the `.canvas` element so as to give the `.one`
+         element something solid to push from
+Step 22:
