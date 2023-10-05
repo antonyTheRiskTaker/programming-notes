@@ -28,4 +28,6 @@ Step 19: set the `background-color` property for `.one`
 Step 20: use the `margin` shorthand to centre the `.one` element horizontally
 Step 21: add `padding` of 1px to the `.canvas` element so as to give the `.one`
          element something solid to push from
-Step 22:
+Step 22: replace the `padding` property with `overflow` (set to 'hidden') in
+         the `.canvas` rule
+Step 23: add another `<div>` with class `two` below the `one` `<div>`
