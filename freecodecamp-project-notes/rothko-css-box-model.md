@@ -1,3 +1,5 @@
+# Rothko Painting Project (CSS Box Model)
+
 Step 1: set up the HTML page with `DOCTYPE` declaration, `<html>` (set to
         English), `<head>` and `<body>`
 Step 2: set up the character encoding (hint: `<meta>` and `charset="UTF-8"`) for
