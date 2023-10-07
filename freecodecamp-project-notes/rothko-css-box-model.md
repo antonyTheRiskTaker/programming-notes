@@ -31,3 +31,4 @@ Step 21: add `padding` of 1px to the `.canvas` element so as to give the `.one`
 Step 22: replace the `padding` property with `overflow` (set to 'hidden') in
          the `.canvas` rule
 Step 23: add another `<div>` with class `two` below the `one` `<div>`
+Step 24: set the `width` property for the `.two` CSS rule
