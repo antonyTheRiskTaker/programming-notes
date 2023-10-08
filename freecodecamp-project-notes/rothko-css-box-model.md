@@ -32,3 +32,5 @@ Step 22: replace the `padding` property with `overflow` (set to 'hidden') in
          the `.canvas` rule
 Step 23: add another `<div>` with class `two` below the `one` `<div>`
 Step 24: set the `width` property for the `.two` CSS rule
+Step 25: set the `height` property for the `.two` CSS rule
+Step 26: set the `background-color` property for the `.two` CSS rule
