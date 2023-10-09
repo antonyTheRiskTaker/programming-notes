@@ -34,3 +34,6 @@ Step 23: add another `<div>` with class `two` below the `one` `<div>`
 Step 24: set the `width` property for the `.two` CSS rule
 Step 25: set the `height` property for the `.two` CSS rule
 Step 26: set the `background-color` property for the `.two` CSS rule
+Step 27: set the `margin` property for the `.two` CSS rule to centre the box
+Step 28: nest a new `<div>` (with class `three`) inside the canvas `<div>`
+Step 29:
