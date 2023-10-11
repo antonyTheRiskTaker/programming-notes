@@ -40,4 +40,7 @@ Step 29: create a `.three` CSS rule and set its `width` property using
          percentage
 Step 30: set the `height` property for the `.three` CSS rule using percentage
 Step 31: set the `background-color` property for the `.three` CSS rule
-Step 32:
+Step 32: centre the `.three` element using the `margin` property
+Step 33: use the `margin` shorthand property to set `.two` element's top,
+         horizontal, bottom margins to '0', 'auto' and '20px' respectively
+Step 34:
