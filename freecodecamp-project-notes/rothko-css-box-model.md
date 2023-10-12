@@ -43,4 +43,10 @@ Step 31: set the `background-color` property for the `.three` CSS rule
 Step 32: centre the `.three` element using the `margin` property
 Step 33: use the `margin` shorthand property to set `.two` element's top,
          horizontal, bottom margins to '0', 'auto' and '20px' respectively
-Step 34:
+Step 34: introduce a new CSS property `filter` and CSS `blur()`
+Step 35:
+
+Summary of lesson learned:
+
+1. New CSS properties learned: `filter`,
+2. New CSS functions learned: `blur()`,
