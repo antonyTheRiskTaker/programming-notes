@@ -44,7 +44,9 @@ Step 32: centre the `.three` element using the `margin` property
 Step 33: use the `margin` shorthand property to set `.two` element's top,
          horizontal, bottom margins to '0', 'auto' and '20px' respectively
 Step 34: introduce a new CSS property `filter` and CSS `blur()`
-Step 35:
+Step 35: target both `.one` and `.two` and increase their blur effect by '1px'
+Step 36: increase the `blur()` of `.three` by '2px'
+Step 37:
 
 Summary of lesson learned:
 
