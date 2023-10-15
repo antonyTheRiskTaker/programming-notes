@@ -46,7 +46,12 @@ Step 33: use the `margin` shorthand property to set `.two` element's top,
 Step 34: introduce a new CSS property `filter` and CSS `blur()`
 Step 35: target both `.one` and `.two` and increase their blur effect by '1px'
 Step 36: increase the `blur()` of `.three` by '2px'
-Step 37:
+Step 37: increase the area and soften the edges of `.one` by setting its
+         `box-shadow` to appropriate values
+Step 38: add the same code to `.two`, but with a different colour value
+Step 39: increase the area and soften the edges of `.three` by setting its
+         `box-shadow` to appropriate values
+Step 40:
 
 Summary of lesson learned:
 
