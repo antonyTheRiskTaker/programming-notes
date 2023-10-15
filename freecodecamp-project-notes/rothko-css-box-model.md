@@ -51,7 +51,8 @@ Step 37: increase the area and soften the edges of `.one` by setting its
 Step 38: add the same code to `.two`, but with a different colour value
 Step 39: increase the area and soften the edges of `.three` by setting its
          `box-shadow` to appropriate values
-Step 40:
+Step 40: introduce the `border-radius` CSS property
+Step 41:
 
 Summary of lesson learned:
 
