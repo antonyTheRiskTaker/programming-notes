@@ -52,9 +52,11 @@ Step 38: add the same code to `.two`, but with a different colour value
 Step 39: increase the area and soften the edges of `.three` by setting its
          `box-shadow` to appropriate values
 Step 40: introduce the `border-radius` CSS property
-Step 41:
+Step 41: use the `border-radius` shorthand to set the values for two pairs of
+         diagonally opposed corners of the `.two` element
+Step 42:
 
 Summary of lesson learned:
 
-1. New CSS properties learned: `filter`,
+1. New CSS properties learned: `filter`, `border-radius`,
 2. New CSS functions learned: `blur()`,
