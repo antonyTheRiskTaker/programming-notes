@@ -1,5 +1,7 @@
 # Rothko Painting Project (CSS Box Model)
 
+## Walkthrough
+
 Step 1: set up the HTML page with `DOCTYPE` declaration, `<html>` (set to
         English), `<head>` and `<body>`
 Step 2: set up the character encoding (hint: `<meta>` and `charset="UTF-8"`) for
@@ -54,9 +56,14 @@ Step 39: increase the area and soften the edges of `.three` by setting its
 Step 40: introduce the `border-radius` CSS property
 Step 41: use the `border-radius` shorthand to set the values for two pairs of
          diagonally opposed corners of the `.two` element
-Step 42:
+Step 42: use the `border-radius` CSS property to round four corners of the
+         `.three` element
+Step 43: introduce the `transform` CSS property and CSS `rotate()`
+Step 44: use the `transform` CSS property and `rotate()` to rotate the `.two`
+         element by an appropriate degree
+Step 45: rotate the `.three` element by an appropriate degree
 
-Summary of lesson learned:
+## Summary of lesson learned
 
-1. New CSS properties learned: `filter`, `border-radius`,
-2. New CSS functions learned: `blur()`,
+1. New CSS properties learned: `filter`, `border-radius` and `transform`
+2. New CSS functions learned: `blur()` and `rotate()`
