@@ -15,15 +15,21 @@ Step 6: fill the `<img>` with links to cat photos
 Step 7: in the stylesheet, target `.gallery` and `<img>` and set their `width`,
         `border` and `padding` to appropriate values
 Step 8: (VERY IMPORTANT!) introduce `box-sizing` CSS property
-Step 9: (VERY IMPORTANT!)explain what does the `border-box` value of the
+Step 9: (VERY IMPORTANT!) explain what does the `border-box` value of the
         `box-sizing` CSS property do
 Step 10: remove the `.gallery` and `img` rules
 Step 11: target `.gallery img` and set the `width`, `max-wdith` and `height`
          properties to appropriate values
-Step 12:
+Step 12: (VERY IMPORTANT!) remove the `margin` from the `<body>`, set its
+         `font-family` and `background-color` properties
+Step 13:
 
 ## Summary of lesson learned
 
 1. New CSS properties learned: `box-sizing`
 2. The difference between the `content-box` and `border-box` values of the
-   `box-sizing` CSS property.
+   `box-sizing` CSS property (See steps 8 and 9).
+3. CSS good practice No.1: target all HTML elements and set their `box-sizing`
+   property to `border-box` (BUT WHY? For building responsive web pages?).
+4. CSS good practice No.2: remove `margin` from `<body>` and set other page-wide
+   properties in the `.body` rule.
