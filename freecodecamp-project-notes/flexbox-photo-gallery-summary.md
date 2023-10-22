@@ -17,7 +17,10 @@ Step 7: in the stylesheet, target `.gallery` and `<img>` and set their `width`,
 Step 8: (VERY IMPORTANT!) introduce `box-sizing` CSS property
 Step 9: (VERY IMPORTANT!)explain what does the `border-box` value of the
         `box-sizing` CSS property do
-Step 10:
+Step 10: remove the `.gallery` and `img` rules
+Step 11: target `.gallery img` and set the `width`, `max-wdith` and `height`
+         properties to appropriate values
+Step 12:
 
 ## Summary of lesson learned
 
