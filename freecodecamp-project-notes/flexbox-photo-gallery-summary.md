@@ -22,7 +22,12 @@ Step 11: target `.gallery img` and set the `width`, `max-wdith` and `height`
          properties to appropriate values
 Step 12: (VERY IMPORTANT!) remove the `margin` from the `<body>`, set its
          `font-family` and `background-color` properties
-Step 13:
+Step 13: style the `.header` element and set its `text-align`, `text-transform`,
+         `padding`, `background`, `color` and `border-bottom` properties to
+         appropriate values
+Step 14: introduce a one-dimension CSS layout flexbox and the concepts of
+         flex container and flex item
+Step 15:
 
 ## Summary of lesson learned
 
