@@ -30,7 +30,8 @@ Step 14: introduce a one-dimension CSS layout flexbox and the concepts of
 Step 15: introduce the `flex-direction` CSS flexbox property
 Step 16: introduce the `flex-wrap` CSS flexbox property
 Step 17: introduce the `justify-content` CSS flexbox property
-Step 18:
+Step 18: introduce the `align-items` CSS flexbox property
+Step 19:
 
 ## Summary of lesson learned
 
