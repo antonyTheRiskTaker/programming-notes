@@ -27,9 +27,10 @@ Step 13: style the `.header` element and set its `text-align`, `text-transform`,
          appropriate values
 Step 14: introduce a one-dimension CSS layout flexbox and the concepts of
          flex container and flex item
-Step 15: introduce the `flex-direction` CSS property
-Step 16: introduce the `flex-wrap` CSS property
-Step 17:
+Step 15: introduce the `flex-direction` CSS flexbox property
+Step 16: introduce the `flex-wrap` CSS flexbox property
+Step 17: introduce the `justify-content` CSS flexbox property
+Step 18:
 
 ## Summary of lesson learned
 
