@@ -31,7 +31,9 @@ Step 15: introduce the `flex-direction` CSS flexbox property
 Step 16: introduce the `flex-wrap` CSS flexbox property
 Step 17: introduce the `justify-content` CSS flexbox property
 Step 18: introduce the `align-items` CSS flexbox property
-Step 19:
+Step 19: set the `padding`, `max-width` and `margin` properties of the gallery
+         appropriate values
+Step 20:
 
 ## Summary of lesson learned
 
