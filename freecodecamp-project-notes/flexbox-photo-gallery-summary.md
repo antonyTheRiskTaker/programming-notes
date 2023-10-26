@@ -36,7 +36,8 @@ Step 19: set the `padding`, `max-width` and `margin` properties of the gallery
 Step 20: introduce the `object-fit` CSS property
 Step 21: introduce the `gap` CSS property (for flex, grid and multi-column
          layout)
-Step 22:
+Step 22: set the `border-radius` of the cat photos to "10px"
+Step 23:
 
 ## Summary of lesson learned
 
