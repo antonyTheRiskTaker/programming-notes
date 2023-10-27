@@ -37,16 +37,21 @@ Step 20: introduce the `object-fit` CSS property
 Step 21: introduce the `gap` CSS property (for flex, grid and multi-column
          layout)
 Step 22: set the `border-radius` of the cat photos to "10px"
-Step 23:
+Step 23: introduce the `::after` CSS pseudo-element
+Step 24: give each image an `alt` description for better accessibility
 
 ## Summary of lesson learned
 
 1. New CSS properties learned: `box-sizing`, `gap`, `object-fit`
 2. Flex CSS properties learned: `flex-direction`, `flex-wrap`,
    `justify-content`, `align-items`
-3. The difference between the `content-box` and `border-box` values of the
+3. New CSS pseudo-elements learned: `::after`
+4. The difference between the `content-box` and `border-box` values of the
    `box-sizing` CSS property (See steps 8 and 9).
-4. CSS good practice No.1: target all HTML elements and set their `box-sizing`
+5. CSS good practice No.1: target all HTML elements and set their `box-sizing`
    property to `border-box` (BUT WHY? For building responsive web pages?).
-5. CSS good practice No.2: remove `margin` from `<body>` and set other page-wide
+6. CSS good practice No.2: remove `margin` from `<body>` and set other page-wide
    properties in the `.body` rule.
+7. The `::after` pseudo-element is usually used to create an empty element
+   after the last child of the selected element (see step 23 for an example of
+   how this pseudo-element is applied in web development).
