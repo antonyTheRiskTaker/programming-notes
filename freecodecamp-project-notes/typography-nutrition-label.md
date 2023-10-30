@@ -7,4 +7,6 @@
 3. add another `<p>` for serving size
 4. add two `<link>` for Google font and your own stylesheet
 5. create the `body` selector and set its `font-family` to the Google font
-6.
+6. create the `html` selector and set its `font-size` to "16px"
+7. wrap the previous `<h1>` and `<p>` in a `<div>` (with `label` class)
+8.
