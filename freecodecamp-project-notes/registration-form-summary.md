@@ -1,3 +1,5 @@
+# Registration Form Project (HTML Form)
+
 Step 1: create a `<!DOCTYPE html>` declaration to begin the project
 Step 2: add a `<html>` with an `lang` attribute set to "en"; below the
         declaration
@@ -105,8 +107,11 @@ Step 60: give the submit button some `margin` top and bottom and an appropriate
 Step 61: target the file `<input>` and give it a `padding` of "1px 2px"
 Step 62: give the `<form>` a `padding-bottom` of "2em"
 Step 63: give the terms and conditions `<a>` a `color` of "#dfdfe2"
+Step 64: add the `inline` class to the terms and conditions checkbox `<input>`
+Step 65: change the text colour of the terms and conditions `<a>`
 
-Summary of lesson learned:
+## Summary of lesson learned
+
 1. HTML elements: `<select>`, `<option>`, `<textarea>`
 2. CSS units: `vh`, `rem`
 3. CSS properties: `vertical-align`
