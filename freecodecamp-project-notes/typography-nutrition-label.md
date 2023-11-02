@@ -9,4 +9,11 @@
 5. create the `body` selector and set its `font-family` to the Google font
 6. create the `html` selector and set its `font-size` to "16px"
 7. wrap the previous `<h1>` and `<p>` in a `<div>` (with `label` class)
-8.
+8. target `.label` and set its `border` to appropriate values
+9. set `.label`'s `width` to an appropriate value to create white space around
+   the label
+10. set the `margin` and `padding` attributes of the `.label` to appropriate
+    values
+11.
+
+## Summary of lesson learned
