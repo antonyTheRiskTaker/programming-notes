@@ -14,6 +14,11 @@
    the label
 10. set the `margin` and `padding` attributes of the `.label` to appropriate
     values
-11.
+11. set all elements' `box-sizing` property to "border-box" in order to include
+    padding and border to their sizes
+12. introduce CSS property `font-weight`
+13.
 
 ## Summary of lesson learned
+
+1. New CSS properties learned: `font-weight`
