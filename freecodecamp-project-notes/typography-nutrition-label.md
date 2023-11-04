@@ -17,7 +17,10 @@
 11. set all elements' `box-sizing` property to "border-box" in order to include
     padding and border to their sizes
 12. introduce CSS property `font-weight`
-13.
+13. center `h1`
+14. set `h1`'s `margin` to appropriate values
+15. remove all margins of `p`
+16.
 
 ## Summary of lesson learned
 
