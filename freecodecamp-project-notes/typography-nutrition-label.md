@@ -20,8 +20,15 @@
 13. center `h1`
 14. set `h1`'s `margin` to appropriate values
 15. remove all margins of `p`
-16.
+16. create a `<div>` and set its `class` attribute to "divider"
+17. create a `.divider` selector and set its `border-bottom` and `margin` to
+    appropriate values
+18. introduce `letter-spacing` CSS property
+19. give the second `<p>` a class of "bold"
+20. create a `.bold` selector, set its `font-weight` to an appropriate value,
+    and remove the `font-weight` declaration from the `h1` ruleset
+21.
 
 ## Summary of lesson learned
 
-1. New CSS properties learned: `font-weight`
+1. New CSS properties learned: `font-weight`, `letter-spacing`
