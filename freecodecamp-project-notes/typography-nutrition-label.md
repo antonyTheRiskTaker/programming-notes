@@ -27,7 +27,9 @@
 19. give the second `<p>` a class of "bold"
 20. create a `.bold` selector, set its `font-weight` to an appropriate value,
     and remove the `font-weight` declaration from the `h1` ruleset
-21.
+21. set `<h1>`'s class attribute to "bold" to make the text bold
+22. wrap the text "2/3 cup (55g)" in a `<span>`
+23.
 
 ## Summary of lesson learned
 
