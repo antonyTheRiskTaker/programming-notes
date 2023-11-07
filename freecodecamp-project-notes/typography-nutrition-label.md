@@ -29,7 +29,9 @@
     and remove the `font-weight` declaration from the `h1` ruleset
 21. set `<h1>`'s class attribute to "bold" to make the text bold
 22. wrap the text "2/3 cup (55g)" in a `<span>`
-23.
+23. make `<p>` flexbox elements and set its `justify-content` to "space-between"
+24. wrap everything within the `.label` element in a `<header>`
+25.
 
 ## Summary of lesson learned
 
