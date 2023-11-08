@@ -34,7 +34,10 @@
 25. update the `h1` selector to be `header h1` to specifically target the `<h1>`
     within the new `<header>`
 26. create a new `<div>` and set its class attribute to "divider large"
-27.
+27. create `.large` and `.large .medium` selectors and set their `height` and
+    `background-color` properties to appropriate values
+28. set `.large .medium`'s `border` to "0"
+29.
 
 ## Summary of lesson learned
 
