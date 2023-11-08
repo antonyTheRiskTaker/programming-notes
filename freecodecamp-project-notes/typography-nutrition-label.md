@@ -31,7 +31,10 @@
 22. wrap the text "2/3 cup (55g)" in a `<span>`
 23. make `<p>` flexbox elements and set its `justify-content` to "space-between"
 24. wrap everything within the `.label` element in a `<header>`
-25.
+25. update the `h1` selector to be `header h1` to specifically target the `<h1>`
+    within the new `<header>`
+26. create a new `<div>` and set its class attribute to "divider large"
+27.
 
 ## Summary of lesson learned
 
