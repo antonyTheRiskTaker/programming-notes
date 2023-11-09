@@ -37,7 +37,9 @@
 27. create `.large` and `.large .medium` selectors and set their `height` and
     `background-color` properties to appropriate values
 28. set `.large .medium`'s `border` to "0"
-29.
+29. create a new `<div>` and set its class to "calories-info"
+30. within the calories-info `<div>`, create another `<div>` and `<h2>`
+31.
 
 ## Summary of lesson learned
 
