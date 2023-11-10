@@ -39,7 +39,9 @@
 28. set `.large .medium`'s `border` to "0"
 29. create a new `<div>` and set its class to "calories-info"
 30. within the calories-info `<div>`, create another `<div>` and `<h2>`
-31.
+31. create a `.small-text` selector and set the `font-size` to "0.85rem"
+32. create a `.calories-info h2` selector and remove all margins
+33.
 
 ## Summary of lesson learned
 
