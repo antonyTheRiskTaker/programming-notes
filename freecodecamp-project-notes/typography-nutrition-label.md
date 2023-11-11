@@ -41,7 +41,11 @@
 30. within the calories-info `<div>`, create another `<div>` and `<h2>`
 31. create a `.small-text` selector and set the `font-size` to "0.85rem"
 32. create a `.calories-info h2` selector and remove all margins
-33.
+33. add a new `<p>` below the `.small-text` element and a new `<span>`
+    below the `.left-container` element
+34. create a `.calories-info` selector and set its `display`, `justify-content`
+    and `align-items` to appropriate values
+35.
 
 ## Summary of lesson learned
 
