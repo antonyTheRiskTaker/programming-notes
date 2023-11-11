@@ -44,7 +44,8 @@
 33. add a new `<p>` below the `.small-text` element and a new `<span>`
     below the `.left-container` element
 34. create a `.calories-info` selector and set its `display`, `justify-content`
-    and `align-items` to appropriate values (hint: we are creating a flex container)
+    and `align-items` to appropriate values (hint: we are creating a flex
+    container)
 35.
 
 ## Summary of lesson learned
