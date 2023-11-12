@@ -46,7 +46,11 @@
 34. create a `.calories-info` selector and set its `display`, `justify-content`
     and `align-items` to appropriate values (hint: we are creating a flex
     container)
-35.
+35. create a `.left-container p` selector and set its `margin`, `font-size` and
+    `font-weight` to appropriate values
+36. create a `.calories-info span` selector and set its `font-size` and
+    `font-weight` to appropriate values
+37.
 
 ## Summary of lesson learned
 
