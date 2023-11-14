@@ -50,7 +50,13 @@
     `font-weight` to appropriate values
 36. create a `.calories-info span` selector and set its `font-size` and
     `font-weight` to appropriate values
-37.
+37. set `margin` of the `.calories-info span` selector to appropriate values
+38. add a new `<div>` below the `.calories-info` element and add its class
+    attribute to "divider" and "medium"
+39. create a `.medium` selector and set its `height` to an appropriate value
+40. create a `<div>`, nest a `<p>` within it, and give appropriate class names
+    to both elements
+41.
 
 ## Summary of lesson learned
 
