@@ -56,7 +56,8 @@
 39. create a `.medium` selector and set its `height` to an appropriate value
 40. create a `<div>`, nest a `<p>` within it, and give appropriate class names
     to both elements
-41.
+41. move the text "% Daily Value *" to the right of the label
+42.
 
 ## Summary of lesson learned
 
