@@ -59,7 +59,9 @@
 41. move the text "% Daily Value *" to the right of the label using
     `justify-content`
 42. add a new divider after the `<p>` within the daily value `<div>`
-43.
+43. under the divider `<div>`, add a `<p>` and three `<span>` that wrap the
+    content of the `<p>`
+44.
 
 ## Summary of lesson learned
 
