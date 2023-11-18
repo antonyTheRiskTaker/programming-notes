@@ -61,7 +61,10 @@
 42. add a new divider after the `<p>` within the daily value `<div>`
 43. under the divider `<div>`, add a `<p>` and three `<span>` that wrap the
     content of the `<p>`
-44.
+44. below the `<p>` with the "Total Fat" text, create a new `<p>` with
+    appropriate text, and within the `<p>` wrap part of the text with a `<span>`
+45. give the "Saturated Fat" `<p>` a class set to "indent"
+46.
 
 ## Summary of lesson learned
 
