@@ -64,7 +64,8 @@
 44. below the `<p>` with the "Total Fat" text, create a new `<p>` with
     appropriate text, and within the `<p>` wrap part of the text with a `<span>`
 45. give the "Saturated Fat" `<p>` a class set to "indent"
-46.
+46. create an `.indent` selector and set its `margin-left` to "1em"
+47.
 
 ## Summary of lesson learned
 
