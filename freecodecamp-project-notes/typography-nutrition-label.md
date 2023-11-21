@@ -65,7 +65,9 @@
     appropriate text, and within the `<p>` wrap part of the text with a `<span>`
 45. give the "Saturated Fat" `<p>` a class set to "indent"
 46. create an `.indent` selector and set its `margin-left` to "1em"
-47.
+47. create a `daily-value p` selector and set its `border-bottom` to appropriate
+    values
+48.
 
 ## Summary of lesson learned
 
