@@ -67,8 +67,13 @@
 46. create an `.indent` selector and set its `margin-left` to "1em"
 47. create a `daily-value p` selector and set its `border-bottom` to appropriate
     values
-48.
+48. add "no-divider" to the class attribute of the `<p>` with the texts
+    "% Daily Value *" and "Saturated Fat 1g 5%"
+49. introduce the `:not` pseudo-selector
+50. add another `.divider` `<div>` under the second `.no-divider` `<p>`
+51.
 
 ## Summary of lesson learned
 
 1. New CSS properties learned: `font-weight`, `letter-spacing`
+2. New CSS pseudo-selector learned: `:not`
