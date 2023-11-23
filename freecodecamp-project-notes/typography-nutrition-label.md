@@ -71,9 +71,12 @@
     "% Daily Value *" and "Saturated Fat 1g 5%"
 49. introduce the `:not` pseudo-selector
 50. add another `.divider` `<div>` under the second `.no-divider` `<p>`
-51.
+51. introduce the `<i>` element
+52. create another `.divider` `<div>` under the `<p>` created in step 52
+53.
 
 ## Summary of lesson learned
 
 1. New CSS properties learned: `font-weight`, `letter-spacing`
 2. New CSS pseudo-selector learned: `:not`
+3. New HTML elements learned: `<i>`
