@@ -74,7 +74,7 @@
 51. introduce the `<i>` element
 52. create another `.divider` `<div>` under the `<p>` created in step 52
 53. after the last `.divider` `<div>`, add another `<p>` for cholesterol
-    content, wrap appropriate parts of the text in `<span>`, and assign `bold`
+    content, wrap appropriate parts of the text in `<span>`, and assign "bold"
     to the class attribute of some of the `<span>`
 54.
 
