@@ -76,7 +76,9 @@
 53. after the last `.divider` `<div>`, add another `<p>` for cholesterol
     content, wrap appropriate parts of the text in `<span>`, and assign "bold"
     to the class attribute of some of the `<span>`
-54.
+54. add another `<p>` for sodium content, wrap appropriate parts of the text in
+    `<span>`, and assign "bold" to the class attribute of some of the `<span>`
+55.
 
 ## Summary of lesson learned
 
