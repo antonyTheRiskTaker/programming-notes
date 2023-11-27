@@ -78,7 +78,10 @@
     to the class attribute of some of the `<span>`
 54. add another `<p>` for sodium content, wrap appropriate parts of the text in
     `<span>`, and assign "bold" to the class attribute of some of the `<span>`
-55.
+55. add another `<p>` for carbohydrate content, wrap appropriate parts of the
+    text in `<span>`, and assign "bold" to the class attribute of some of the
+    `<span>`
+56.
 
 ## Summary of lesson learned
 
