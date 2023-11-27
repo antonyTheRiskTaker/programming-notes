@@ -81,7 +81,10 @@
 55. add another `<p>` for carbohydrate content, wrap appropriate parts of the
     text in `<span>`, and assign "bold" to the class attribute of some of the
     `<span>`
-56.
+56. add an indented `<p>` for dietary fiber content and a divider `<div>` below
+    it
+57. add an indented `<p>` for sugars content and a divider `<div>` below it
+58.
 
 ## Summary of lesson learned
 
