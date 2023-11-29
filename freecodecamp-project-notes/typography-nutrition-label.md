@@ -84,7 +84,8 @@
 56. add an indented `<p>` for dietary fiber content and a divider `<div>` below
     it
 57. add an indented `<p>` for sugars content and a divider `<div>` below it
-58.
+58. add "double-indent" to the class of the last divider `<div>`
+59.
 
 ## Summary of lesson learned
 
