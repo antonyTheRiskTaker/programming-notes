@@ -85,7 +85,9 @@
     it
 57. add an indented `<p>` for sugars content and a divider `<div>` below it
 58. add "double-indent" to the class of the last divider `<div>`
-59.
+59. create a `.double-indent` selector and give it a left margin of 2em
+60. add a double indented `<p>` for added sugars content and a `<div>` below it
+61.
 
 ## Summary of lesson learned
 
