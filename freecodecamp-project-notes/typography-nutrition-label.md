@@ -88,7 +88,9 @@
 59. create a `.double-indent` selector and give it a left margin of 2em
 60. add a double indented `<p>` for added sugars content and a `<div>` below it
 61. add a `<p>` for protein content and a larger divider `<div>` below it
-62.
+62. below the large divider, add another `<p>` for vitamin D content and a
+    `<span>` that wraps the percentage
+63.
 
 ## Summary of lesson learned
 
