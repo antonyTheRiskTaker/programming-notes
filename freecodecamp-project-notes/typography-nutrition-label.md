@@ -89,8 +89,10 @@
 60. add a double indented `<p>` for added sugars content and a `<div>` below it
 61. add a `<p>` for protein content and a larger divider `<div>` below it
 62. below the large divider, add another `<p>` for vitamin D content and a
-    `<span>` that wraps the percentage
-63.
+    `<span>` that wraps the percentage value and aligns it to the right
+63. add two `<p>` for calcium and iron contents, and `<span>` to wrap their
+    percentage values and align them to the right
+64.
 
 ## Summary of lesson learned
 
