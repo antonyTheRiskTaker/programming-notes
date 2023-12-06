@@ -92,7 +92,8 @@
     `<span>` that wraps the percentage value and aligns it to the right
 63. add two `<p>` for calcium and iron contents, and `<span>` to wrap their
     percentage values and align them to the right
-64.
+64. add another `<p>` for potassium content and remove its bottom border
+65.
 
 ## Summary of lesson learned
 
