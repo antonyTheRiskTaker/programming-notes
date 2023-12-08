@@ -93,7 +93,9 @@
 63. add two `<p>` for calcium and iron contents, and `<span>` to wrap their
     percentage values and align them to the right
 64. add another `<p>` for potassium content and remove its bottom border
-65.
+65. add a medium divider after the `.daily-value` `<div>` and below the divider
+    a `<p>` that contains text about explanatory info about daily value
+66.
 
 ## Summary of lesson learned
 
