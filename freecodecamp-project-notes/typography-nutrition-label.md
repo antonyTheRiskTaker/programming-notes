@@ -97,10 +97,10 @@
     a `<p>` that contains text about explanatory info about daily value
 66. create a `.note` selector and set its `font-size` and `margin` to
     appropriate values
-67.
+67. introduce the CSS property `text-indent`
 
 ## Summary of lesson learned
 
-1. New CSS properties learned: `font-weight`, `letter-spacing`
+1. New CSS properties learned: `font-weight`, `letter-spacing`, `text-indent`
 2. New CSS pseudo-selector learned: `:not`
 3. New HTML elements learned: `<i>`
