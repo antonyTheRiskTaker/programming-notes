@@ -95,7 +95,9 @@
 64. add another `<p>` for potassium content and remove its bottom border
 65. add a medium divider after the `.daily-value` `<div>` and below the divider
     a `<p>` that contains text about explanatory info about daily value
-66.
+66. create a `.note` selector and set its `font-size` and `margin` to
+    appropriate values
+67.
 
 ## Summary of lesson learned
 
