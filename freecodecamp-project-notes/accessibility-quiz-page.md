@@ -8,7 +8,9 @@
    the page
 3. how to use the viewport `<meta>` tag to instruct the browser how to render
    the page on different devices, improving SEO
-4.
+4. use the description `<meta>` to give provide search engines a description of
+   the page
+5.
 
 ## Summary of lesson learned
 
