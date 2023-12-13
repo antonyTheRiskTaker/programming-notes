@@ -10,7 +10,9 @@
    the page on different devices, improving SEO
 4. use the description `<meta>` to provide search engines a description of
    the page
-5.
+5. use the `<title>` to allow screen readers to understand the content of the
+   page
+6.
 
 ## Summary of lesson learned
 
