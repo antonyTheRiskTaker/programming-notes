@@ -12,7 +12,9 @@
    the page
 5. use the `<title>` to allow screen readers to understand the content of the
    page
-6.
+6. using semantic elements like `<header>` and `<main>` provides the structure
+   of a web page on which screen readers rely
+7.
 
 ## Summary of lesson learned
 
