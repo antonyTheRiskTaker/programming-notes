@@ -14,7 +14,9 @@
    page
 6. using semantic elements like `<header>` and `<main>` provides the structure
    of a web page on which screen readers rely
-7.
+7. add an `<img>`, `<h1>`, and `<nav>` within the `<header>` to provide context
+   about the page
+8.
 
 ## Summary of lesson learned
 
