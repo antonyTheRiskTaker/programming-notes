@@ -18,7 +18,7 @@
    about the page
 8. introduce CSS function `max()`
 9. introduce CSS property `aspect-ratio`
-10. target the `<header>` and set its `height`, `background-color` and 
+10. target the `<header>` and set its `height`, `background-color` and
     `display` to appropriate values
 11.
 
