@@ -17,8 +17,12 @@
 7. add an `<img>`, `<h1>`, and `<nav>` within the `<header>` to provide context
    about the page
 8. introduce CSS function `max()`
-9.
+9. introduce CSS property `aspect-ratio`
+10. target the `<header>` and set its `height`, `background-color` and 
+    `display` to appropriate values
+11.
 
 ## Summary of lesson learned
 
 1. New CSS functions learned: `max()`
+2. New CSS properties learned: `aspect-ratio`
