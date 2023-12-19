@@ -16,8 +16,9 @@
    of a web page on which screen readers rely
 7. add an `<img>`, `<h1>`, and `<nav>` within the `<header>` to provide context
    about the page
-8.
+8. introduce CSS function `max()`
+9.
 
 ## Summary of lesson learned
 
-1.
+1. New CSS functions learned: `max()`
