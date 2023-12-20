@@ -20,9 +20,10 @@
 9. introduce CSS property `aspect-ratio`
 10. target the `<header>` and set its `height`, `background-color` and
     `display` to appropriate values
-11.
+11. introduce CSS function `min()`
+12.
 
 ## Summary of lesson learned
 
-1. New CSS functions learned: `max()`
+1. New CSS functions learned: `max()`, `min()`
 2. New CSS properties learned: `aspect-ratio`
