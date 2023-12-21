@@ -21,7 +21,8 @@
 10. target the `<header>` and set its `height`, `background-color` and
     `display` to appropriate values
 11. introduce CSS function `min()`
-12.
+12. use `<ul>`, `<li>` and `<a>` to enable navigation on the page
+13.
 
 ## Summary of lesson learned
 
