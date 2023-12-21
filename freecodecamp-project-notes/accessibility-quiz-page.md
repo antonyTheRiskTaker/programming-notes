@@ -22,9 +22,11 @@
     `display` to appropriate values
 11. introduce CSS function `min()`
 12. use `<ul>`, `<li>` and `<a>` to enable navigation on the page
-13.
+13. introduce CSS combinator selector `>`
+14.
 
 ## Summary of lesson learned
 
 1. New CSS functions learned: `max()`, `min()`
 2. New CSS properties learned: `aspect-ratio`
+3. New CSS selectors learned: `>`
