@@ -24,7 +24,8 @@
 12. use `<ul>`, `<li>` and `<a>` to enable navigation on the page
 13. introduce CSS combinator selector `>`
 14. add a `<form>` and other nested elements for submitting answers
-15.
+15. introduce the HTML attribute `role` and the Wide Accessibility Initiative
+16.
 
 ## Summary of lesson learned
 
