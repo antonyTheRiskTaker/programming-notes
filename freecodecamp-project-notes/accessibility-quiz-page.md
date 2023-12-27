@@ -25,10 +25,12 @@
 13. introduce CSS combinator selector `>`
 14. add a `<form>` and other nested elements for submitting answers
 15. introduce the HTML attribute `role` and the Wide Accessibility Initiative
-16.
+16. introduce the HTML attribute `aria-labelledby` and its purpose
+17.
 
 ## Summary of lesson learned
 
 1. New CSS functions learned: `max()`, `min()`
 2. New CSS properties learned: `aspect-ratio`
 3. New CSS selectors learned: `>`
+4. New HTML element accessibility attributes: `role`, `aria-labelledby`
